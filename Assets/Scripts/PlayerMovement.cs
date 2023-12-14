@@ -30,8 +30,6 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float dashVelocity;
     [SerializeField] public float dashTime;
 
-    // climbing
-
     // counters
     public int deathCount = 0;
     public int applesCollected = 0;
